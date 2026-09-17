@@ -19,5 +19,5 @@
 
 ## How to Reach Me
 - Email: nicdeemedia@gmail.com
-- LinkedIn: [[See page here](https://bit.ly/Niclkdn)]
-- Portfolio: [Check my Professional Work(https://nicodemusmuriuki.my.canva.site/)]
+- LinkedIn: [See page here](https://bit.ly/Niclkdn)
+- Portfolio: [Check my Professional Work](https://nicodemusmuriuki.my.canva.site/)
