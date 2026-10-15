@@ -30,5 +30,5 @@
 - Nicdee@Nicdees-MacBook-Air ~ % 
 
 ## Links
-- [My profile:](https://realnicdee.github.io
+- [My profile:](https://realnicdee.github.io)
 - Task 0.5: [Markdown Practice](markdown-practice.md)
