@@ -73,3 +73,7 @@ function reloadProgress() {
   --border: #e2e8f0;
   }
   ```
+
+## My Final view
+I am working on this markdown practice to help me better my skills.
+Chacha > We best learn code by practice.
