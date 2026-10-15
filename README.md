@@ -23,7 +23,8 @@
 - Portfolio: [Check my Professional Work](https://nicodemusmuriuki.my.canva.site/)
 
 ## Set Up (Taks 0.2)
-Nicdee@Nicdees-MacBook-Air ~ % git config --global --list
-user.name=RealNicdee
-user.email=muriuki.nicodemus76@gmail.com
-Nicdee@Nicdees-MacBook-Air ~ % 
+- Nicdee@Nicdees-MacBook-Air ~ %
+- git config --global --list
+- user.name=RealNicdee
+- user.email=muriuki.nicodemus76@gmail.com
+- Nicdee@Nicdees-MacBook-Air ~ % 
