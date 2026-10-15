@@ -1,8 +1,14 @@
-# My Learning Goals
+## My Learning Goals
 ### This Semester
+Below are my goals this semester:
 - To **learn** and **master** the usage of *markdown language* which I will mostly be using when writing my notes and `articles`.
 - To master **HTML** for structuring my website and setting me on success pendestal.
 - To master **CSS** and grasp a few color codes by committing them to memory.
+Example of my coding
+  ```
+  python
+  print("Hello, world!")
+  ```
 
 ## What I have learnt so far
 ### Steps to Make a Commit in Git
