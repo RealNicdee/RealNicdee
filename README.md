@@ -56,4 +56,4 @@ Java PR
 - And from the ReadME file.
 
 ### My PR that closed an issue with Closes #n
-...
+*I couldn't see it after issue solved.*
