@@ -29,9 +29,9 @@ if is_eager_to_learn:
 - ~CSS~ HTML is the foundational language of all websites.
   
 ### Steps to Make a Commit in Git
-1. Git status (To see what has chaned)
-2. Git add (To stage your changes)
-3. git commit -m "markdown practice" (Description message)
+1. `Git status` (To see what has chaned)
+2. `Git add .` (To stage your changes)
+3. `git commit -m "markdown practice"` (Description message)
 
 ### Useful Tools for Programming
 | Tool | Use | Link |
