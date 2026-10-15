@@ -7,18 +7,27 @@ Below are my goals this semester:
 
 Example of my coding
 ```
- # Trainee automation validation track
+ ## Trainee automation validation track
 student_name = "Nicodemus Muriuki"
 current_step = 7
 is_eager_to_learn = True
 
-print(f"🚀 Execution Status: {student_name} is running Python code at Step {current_step}!")
+print(f"Execution Status: {student_name} is running Python code at Step {current_step}!")
 
 if is_eager_to_learn:
     print("Keep going! Terminal navigation is a developer superpower.")
 ```
 
+## Useful Links
+- Check out [My Github Profile Page](https://realnicdee.github.io/)
+- Let's interact on [LinkedIn](https://bit.ly/Niclkdn)
+
+  
 ## What I have learnt so far
+- We use markdown for ReadMe pages
+- ReadMe pages are important to guide the repo and communicate important things and instructions.
+- ~CSS~ HTML is the foundational language of all websites.
+  
 ### Steps to Make a Commit in Git
 1. Git status (To see what has chaned)
 2. Git add (To stage your changes)
