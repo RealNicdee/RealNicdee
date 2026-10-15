@@ -32,3 +32,28 @@
 ## Links
 - [My profile:](https://realnicdee.github.io)
 - Task 0.5: [Markdown Practice](markdown-practice.md)
+
+## Week 0 Team
+### Teammates' GitHub usernames
+- Hellen Wamucii Njue: HellenWamuciiNjue
+- Michael Yugi: michael-yugi
+- Florence Gitau: gitau0076-cpu
+
+### Team Repository
+Check our [Week 0 team Repo](https://github.com/HellenWamuciiNjue/iyf-s12-week-00-team-HellenWamuciiNjue.git)
+
+### My PR
+C++ PR
+
+### The PR I Reviewed
+Java PR
+
+### The Merged Conflict PR
+15-readme
+
+### My Two Issues
+- Removing inactive members from contributors,
+- And from the ReadME file.
+
+### My PR that closed an issue with Closes #n
+...
