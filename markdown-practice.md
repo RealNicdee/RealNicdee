@@ -47,7 +47,8 @@ if is_eager_to_learn:
 - [ ] Master CSS.
 
 
-### Example of a Code Block
+### Example of a Code 
+- JavaScript
 ```js
 /**
  * Sync active student scores tracking with cached local engine states
@@ -57,3 +58,18 @@ function reloadProgress() {
   studyProgress = { ...defaultProgress, ...saved };
 }
 ```
+
+- CSS
+  ```CSS
+  :root {
+  --primary: #2563eb;
+  --secondary: #1e40af;
+  --success: #16a34a;
+  --danger: #dc2626;
+  --bg-main: #f8fafc;
+  --card-bg: #ffffff;
+  --text-dark: #1e293b;
+  --text-light: #64748b;
+  --border: #e2e8f0;
+  }
+  ```
