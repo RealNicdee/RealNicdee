@@ -46,3 +46,14 @@ if is_eager_to_learn:
 - [ ] Complete HTML.
 - [ ] Master CSS.
 
+
+### Example of a Code Block
+```js
+/**
+ * Sync active student scores tracking with cached local engine states
+ */
+function reloadProgress() {
+  const saved = safeLoadJson(STORAGE_KEYS.progress, defaultProgress);
+  studyProgress = { ...defaultProgress, ...saved };
+}
+```
